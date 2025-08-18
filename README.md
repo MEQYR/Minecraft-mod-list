@@ -47,6 +47,8 @@
 8 ItemPhysic Mod
 9 TrashSlot
 10 Sophisticated Backpacks
+11 Just Enough Items
+	11.1 Just Enough Resources (JER)
 
 
 Дата паки:
