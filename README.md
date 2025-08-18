@@ -33,6 +33,8 @@
 	1.3 Create: New Age
 	1.4 Create: Aquatic Ambitions
 	1.5 Create Big Cannons
+		1.5.1 Create Big Cannons: Advanced Technologies
+	1.6 Create: Dynamic Lights
 	Аддоны позже
 2 Serene Seasons
 	2.1 Immersive Snow
