@@ -41,6 +41,7 @@
 4 Patchouli
 5 Better Villages
 6 Waystones
+7 Chunk Loaders
 
 
 Дата паки:
