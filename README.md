@@ -69,10 +69,10 @@
 
  	Сервер кал:
 1 modern fix
-2 rubidium
+2 FerriteCore
 
-Дата паки:
-1 Saturation indicator
+
+
 
 
 
