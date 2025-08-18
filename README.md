@@ -17,13 +17,13 @@
 
 
 Спорно, но глянем:
-1 Water Physics Overhaul (кал)
-2 ParCool! ~ Minecraft Parkour ~
-	2.1 Feathers (кал)
-3 Chunky McChunkFace
-4 Chunky (Forge/NeoForge)
-5 Chunk Loaders
-6 Tough As Nails (кал)
+1 Water Physics Overhaul (кал) ~ (ОТКАЗАНО)
+2 ParCool! ~ Minecraft Parkour ~ (УЖЕ ЕСТЬ)
+	2.1 Feathers (кал) ~ (ОТКАЗАНО)
+3 Chunky McChunkFace ~ (ОТКАЗАНО)
+4 Chunky (Forge/NeoForge) ~ (ОТКАЗАНО)
+5 Chunk Loaders ~ (УЖЕ ЕСТЬ)
+6 Tough As Nails (кал) ~ (ОТКАЗАНО, ЗАМЕНЕНО)
 
 
 Моды:
@@ -38,7 +38,8 @@
 	Аддоны позже
 2 Serene Seasons
 	2.1 Immersive Snow
-3 Biomes O' Plenty
+3 Biomes O' Plenty (Заменён)
+	-Terralith
 	3.1 Quark
 4 Patchouli
 5 Better Villages
@@ -46,43 +47,50 @@
 7 Chunk Loaders
 8 ItemPhysic Mod
 9 TrashSlot
-10 Sophisticated Backpacks
+10 Sophisticated Backpacks +(СЛОТЫ)
 11 Just Enough Items
 	11.1 Just Enough Resources (JER)
  	11.2 Enchantment Descriptions
 	11.3 Enchantments Of All Time
+ 12 Skelun's XP Reward System
+ 13 End: Remastered
+ 14 Legendary Survival Overhaul
+ 15 Figura
+ 16 Falling leaves
+ 17 Carry on
+ 18 diet
+ 19 Brewery
+ 20 Vinery
+ 21 FastLeafDecay
+ 22 Simple Delights
+ 23 Etched
+ 24 Shipping
+ 25 ParCool! ~ Minecraft Parkour
 
+ 	Сервер кал:
+1 modern fix
+2 rubidium
 
 Дата паки:
 1 Saturation indicator
-2 Better Traders
-3 Skelun's XP Reward System
 
 
 
 Аддитонал, но можно:
-1 Brewery
-2 Vinery
-3 FastLeafDecay
-4 Joy of Painting
-5 Hats (не по версии)
-6 Simple Delights
-7 Dropz (конфилктный)
-8 Etched
-9 Shipping
+
 
 Сагестионс от Ильи
-моды на оптимизацию (sodium, rubidium, embeddium, optifine??, betterfps??)
-мод на усложнение открытие портала в энд (End: Remastered)
-ултимативное выживание Legendary Survival Overhaul
-гладь гладь PatPat
-Красивые скины Figura
-Слежка CCTV Craft (хрень, но интересная)
-говорит само за себя Falling leaves
-рюкзаки Sophisticated backpacks (плюс нужен мод на акссесуары чтобы слот брони не занимал)
-БОЛЬШЕ ЕДЫ cultural/nether delight
-резать тыквы вот так Haunted harvest Carve
-носим петушков Carry on
-Лошади полезные ?! astikorcarts
-кушаем правильно diet
-моды на "на какую херню я сейчас смотрю??" WAILA?,WTHIT
+моды на оптимизацию (sodium, rubidium, embeddium, optifine??, betterfps??)  -ПОШЛО НАХУЙ (ФИМОЗ)
+мод на усложнение открытие портала в энд (End: Remastered)   -УЖЕ ЕСТЬ
+ултимативное выживание Legendary Survival Overhaul  -УЖЕ ЕСТЬ
+гладь гладь PatPat  -ОТКАЗАНО
+Красивые скины Figura  -УЖЕ ЕСТЬ
+Слежка CCTV Craft (хрень, но интересная)  -ОТКАЗАНО
+говорит само за себя Falling leaves  -УЖЕ ЕСТЬ (КАЛ)
+рюкзаки Sophisticated backpacks (плюс нужен мод на акссесуары чтобы слот брони не занимал)  -УЖЕ ЕСТЬ
+БОЛЬШЕ ЕДЫ cultural/nether delight 	-УЖЕ ЕСТЬ
+резать тыквы вот так Haunted harvest Carve  -ОТКАЗАНО
+носим петушков Carry on  -УЖЕ ЕСТЬ
+Лошади полезные ?! astikorcarts  -ОТКАЗАНО
+кушаем правильно diet  -УЖЕ ЕСТЬ (ТОРТ)
+моды на "на какую херню я сейчас смотрю??" WAILA?,WTHIT  -ОТКАЗАНО
