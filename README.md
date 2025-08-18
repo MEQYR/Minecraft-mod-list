@@ -70,3 +70,19 @@
 7 Dropz (конфилктный)
 8 Etched
 9 Shipping
+
+Сагестионс от Ильи
+моды на оптимизацию (sodium, rubidium, embeddium, optifine??, betterfps??)
+мод на усложнение открытие портала в энд (End: Remastered)
+ултимативное выживание Legendary Survival Overhaul
+гладь гладь PatPat
+Красивые скины Figura
+Слежка CCTV Craft (хрень, но интересная)
+говорит само за себя Falling leaves
+рюкзаки Sophisticated backpacks (плюс нужен мод на акссесуары чтобы слот брони не занимал)
+БОЛЬШЕ ЕДЫ cultural/nether delight
+резать тыквы вот так Haunted harvest Carve
+носим петушков Carry on
+Лошади полезные ?! astikorcarts
+кушаем правильно diet
+моды на "на какую херню я сейчас смотрю??" WAILA?,WTHIT
