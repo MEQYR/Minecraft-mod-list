@@ -49,6 +49,8 @@
 10 Sophisticated Backpacks
 11 Just Enough Items
 	11.1 Just Enough Resources (JER)
+ 	11.2 Enchantment Descriptions
+	11.3 Enchantments Of All Time
 
 
 Дата паки:
