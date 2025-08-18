@@ -44,6 +44,9 @@
 5 Better Villages
 6 Waystones
 7 Chunk Loaders
+8 ItemPhysic Mod
+9 TrashSlot
+10 Sophisticated Backpacks
 
 
 Дата паки:
