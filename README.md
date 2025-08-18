@@ -3,7 +3,7 @@
 
 
 Версии:
-1.14.4 - 1.16.5
+1.14.4 - 1.16.5 - 1.20.1
 
 Требования по модам:
 1 Техника и инжир (create и т.п.)
@@ -28,7 +28,7 @@
 
 Моды:
 1 Create
-	1.1 Create: Steam 'n' Rails
+	1.1 Create: Steam 'n' Rails (конфилктный)
 	1.2 Create Stuff 'N Additions
 	1
 	Аддоны позже
@@ -53,8 +53,8 @@
 2 Vinery
 3 FastLeafDecay
 4 Joy of Painting
-5 Hats
+5 Hats (не по версии)
 6 Simple Delights
-7 Dropz
+7 Dropz (конфилктный)
 8 Etched
 9 Shipping
