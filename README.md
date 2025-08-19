@@ -34,7 +34,9 @@
 	1.4 Create: Aquatic Ambitions
 	1.5 Create Big Cannons
 		1.5.1 Create Big Cannons: Advanced Technologies
-	1.6 Create: Dynamic Lights
+	1.6 Create: Dynamic Lights (несовместимый)
+ 	1.7 Create: Fishery Industry
+  	1.8 Create: Escalated
 	Аддоны позже
 2 Serene Seasons
 	2.1 Immersive Snow
@@ -62,10 +64,19 @@
  19 Brewery
  20 Vinery
  21 FastLeafDecay
- 22 Simple Delights
+ 22 AmbientSounds 6
  23 Etched
  24 Shipping
  25 ParCool! ~ Minecraft Parkour
+ 26 AppleSkin
+ 27 Farmer's Delight 
+ 	27.1 Miner's Delight
+  	27.2 Delightful   
+   	27.3 Create Slice & Dice
+	27.4 Cultural Delights
+ 	27.5 Farmer's Delight Compat
+  	27.6 Delightful Slaughter: A Farmer's Delight Addon
+   	27.7 Trade Delight
 
  	Сервер кал:
 1 modern fix
