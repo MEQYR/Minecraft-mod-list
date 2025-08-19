@@ -2,7 +2,7 @@
 Список и требования по модам для нашей сборки
 			ССЫЛКА НА ПОСЛЕДНИЙ АКТУАЛЬНЫЙ ПАК:
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!!!!!!!!!! https://disk.yandex.ru/d/sqjbsLm2xcFPUw !!!!!!!!!!
+!!!!!!!!!! https://disk.yandex.ru/d/G2d882eVk5BM3g !!!!!!!!!!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
@@ -81,11 +81,20 @@
  	27.5 Farmer's Delight Compat
   	27.6 Delightful Slaughter: A Farmer's Delight Addon
    	27.7 Trade Delight
+28 YUNG's Better Mineshafts
+29 YUNG's Better Dungeons
+30 YUNG's Better End Island
+31 YUNG's Better Nether Fortresses
+32 YUNG's Better Witch Huts
+33 YUNG's Better Jungle Temples
+34 YUNG's Better Ocean Monuments
+35 Sky Villages
+36 Dungeons Enhanced
+37 Lootr
 
  	Сервер кал:
 1 modern fix
 2 FerriteCore
-
 
 
 
