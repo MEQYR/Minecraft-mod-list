@@ -2,7 +2,7 @@
 Список и требования по модам для нашей сборки
 			ССЫЛКА НА ПОСЛЕДНИЙ АКТУАЛЬНЫЙ ПАК:
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!!!!!!!!!! https://disk.yandex.ru/d/eTtKL6fdD_uuMg !!!!!!!!!!
+!!!!!!!!!! https://disk.yandex.ru/d/s2ViZvRf7H5PUg !!!!!!!!!!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
@@ -91,12 +91,13 @@
 35 Sky Villages
 36 Dungeons Enhanced
 37 Lootr
+38 Configurable death  --- https://disk.yandex.ru/d/plcMRsaGll1A9A
 
  	Сервер кал:
 1 modern fix
 2 FerriteCore
 
-* configurable death https://www.curseforge.com/minecraft/mc-mods/configurable-death *
+
 
 
 
