@@ -96,7 +96,7 @@
 1 modern fix
 2 FerriteCore
 
-
+* configurable death https://www.curseforge.com/minecraft/mc-mods/configurable-death *
 
 
 
@@ -118,3 +118,4 @@
 Лошади полезные ?! astikorcarts  -ОТКАЗАНО
 кушаем правильно diet  -УЖЕ ЕСТЬ (ТОРТ)
 моды на "на какую херню я сейчас смотрю??" WAILA?,WTHIT  -ОТКАЗАНО
+
