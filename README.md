@@ -91,11 +91,12 @@
 35 Sky Villages
 36 Dungeons Enhanced
 37 Lootr
-38 Configurable death  --- https://disk.yandex.ru/d/plcMRsaGll1A9A
+
 
  	Сервер кал:
 1 modern fix
 2 FerriteCore
+3 Configurable death  --- https://disk.yandex.ru/d/plcMRsaGll1A9A
 
 
 
