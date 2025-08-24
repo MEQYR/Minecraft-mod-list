@@ -33,21 +33,21 @@
 
 # Моды:
 1. Create
-	1.1. Create: Steam 'n' Rails (конфилктный)
-	1.2. Create Stuff 'N Additions
-	1.3. Create: New Age
-	1.4. Create: Aquatic Ambitions
-	1.5 Create Big Cannons
-		1.5.1. Create Big Cannons: Advanced Technologies
-	1.6. Create: Dynamic Lights (несовместимый)
- 	1.7. Create: Fishery Industry
-  	1.8. Create: Escalated
+	1. Create: Steam 'n' Rails (конфилктный)
+	2. Create Stuff 'N Additions
+	3. Create: New Age
+	4. Create: Aquatic Ambitions
+	5 Create Big Cannons
+		1. Create Big Cannons: Advanced Technologies
+	6. Create: Dynamic Lights (несовместимый)
+ 	7. Create: Fishery Industry
+  	8. Create: Escalated
 	
 2. Serene Seasons
-	2.1. Immersive Snow
+	1. Immersive Snow
 3. Biomes O' Plenty (Заменён)
-	3.1. Terralith
-	3.2. Quark
+	1. Terralith
+	2. Quark
 4. Patchouli
 5. Better Villages
 6. Waystones
@@ -56,9 +56,9 @@
 9. TrashSlot
 10. Sophisticated Backpacks +(СЛОТЫ)
 11. Just Enough Items
-	11.1. Just Enough Resources (JER)
- 	11.2. Enchantment Descriptions
-	11.3. Enchantments Of All Time
+	1. Just Enough Resources (JER)
+ 	2. Enchantment Descriptions
+	3. Enchantments Of All Time
  12. Skelun's XP Reward System
  13. End: Remastered
  14. Legendary Survival Overhaul
