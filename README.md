@@ -7,10 +7,10 @@
 
 Собранный сервак - https://disk.yandex.ru/d/1NYCHPv7LQpzmw
 
-#Версии:
+# Версии:
 1.14.4 - 1.16.5 - 1.20.1
 
-#Требования по модам:
+# Требования по модам:
 1. Техника и инжир (create и т.п.)
 2. Биомы и генерация
 	2.1. Реворк паттернов построек в мире
@@ -21,7 +21,7 @@
 6. Физика и её доработка
 
 
-#Спорно, но глянем:
+# Спорно, но глянем:
 1. Water Physics Overhaul (кал) ~ (ОТКАЗАНО)
 2. ParCool! ~ Minecraft Parkour ~ (УЖЕ ЕСТЬ)
 	2.1. Feathers (кал) ~ (ОТКАЗАНО)
@@ -94,16 +94,16 @@
 37. Lootr
 
 
- 	Сервер кал:
-1 modern fix
-2 FerriteCore
-3 Configurable death  --- https://disk.yandex.ru/d/plcMRsaGll1A9A
+# Сервер кал:
+1. modern fix
+2. FerriteCore
+3. Configurable death  --- https://disk.yandex.ru/d/plcMRsaGll1A9A
 
 
 
 
 
-Аддитонал, но можно:
+# Аддитонал, но можно:
 
 
 Сагестионс от Ильи
