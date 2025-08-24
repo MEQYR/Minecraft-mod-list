@@ -13,8 +13,8 @@
 # Требования по модам:
 1. Техника и инжир (create и т.п.)
 2. Биомы и генерация
-	2.1. Реворк паттернов построек в мире
-	2.2. Чанк лоадер
+	1. Реворк паттернов построек в мире
+	2. Чанк лоадер
 3. Погодные условия (акшуалли влияет на геймплей)
 4. Передвижение по миру
 5. Социальное взаимодействие между игроками
@@ -75,13 +75,13 @@
  25. ParCool! ~ Minecraft Parkour
  26. AppleSkin
  27. Farmer's Delight 
- 	27.1. Miner's Delight
-  	27.2. Delightful   
-   	27.3. Create Slice & Dice
-	27.4. Cultural Delights
- 	27.5. Farmer's Delight Compat
-  	27.6. Delightful Slaughter: A Farmer's Delight Addon
-   	27.7. Trade Delight
+ 	1. Miner's Delight
+  	2. Delightful   
+   	3. Create Slice & Dice
+	4. Cultural Delights
+ 	5. Farmer's Delight Compat
+  	6. Delightful Slaughter: A Farmer's Delight Addon
+   	7. Trade Delight
 28. YUNG's Better Mineshafts
 29. YUNG's Better Dungeons
 30. YUNG's Better End Island
