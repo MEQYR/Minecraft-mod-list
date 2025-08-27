@@ -107,7 +107,7 @@
 2. Ядро сервера - Forge
    - Ссылка: https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-installer.jar
 3. UFW
-4. Nginx (для панели)
+4. Nginx (для панели) - https://disk.yandex.ru/d/AHwv6mYl5bQP3g
 5. Docker (для панели)
 7. Webmin
 8. MCSManager Panel
