@@ -103,17 +103,17 @@
 
 # Серверная ебля
 **Требования по софту**:
-1. OpenJDK 17й версии
-2. Ядро сервера - Forge
+1. OpenJDK 17й версии (сделано)
+2. Ядро сервера - Forge (сделано)
    - Ссылка: https://adfoc.us/serve/sitelinks/?id=271228&url=https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-installer.jar
-3. UFW
+3. UFW (сделано)
 4. Nginx (для панели) - https://disk.yandex.ru/d/AHwv6mYl5bQP3g
-5. Docker (для панели)
+5. Docker (для панели) (сделано)
 7. Webmin
-8. MCSManager Panel
+8. MCSManager Panel (сделано)
 9. Restic (!НАДО НАЙТИ ШТУКУ ДЛЯ УДОБНОГО МЕНЕДЖЕРА РЕПОЗИТОРИЯ)
 10. Wireguard
-11. Prometheus нода (Сделать акки для других у себя)
+11. Prometheus нода (Сделать акки для других у себя) (сделано)
 12. Сделать юзера (не рута) для работы в терминале
 
 **Что надо найти**:
