@@ -5,8 +5,7 @@
 !!!!!!!!!! https://disk.yandex.ru/d/Z3E18JLSyIZn5g !!!!!!!!!!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-Новый мод
-Закинуть это - https://www.curseforge.com/minecraft/mc-mods/gravestone-mod/files/6930821 в папку с модами
+
 
 Собранный сервак - https://disk.yandex.ru/d/1NYCHPv7LQpzmw
 
